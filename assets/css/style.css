@@ -2,8 +2,8 @@
 body {
     background-color: #FAF3E0;  /* Soft beige */
     color: #7A7A7A;  /* Soft gray text */
-    font-family: Arial, sans-serif;
-    text-align: center;
+    font-family: Calibri, sans-serif;  /* Changed to Calibri font */
+    text-align: center;  /* Centers the text */
 }
 
 header {
@@ -29,9 +29,21 @@ section {
     border-radius: 10px;
 }
 
+/* Centering the list items */
+ul {
+    display: inline-block;  /* Ensures the list is treated like a box */
+    text-align: left;       /* Keeps the text left-aligned inside the list */
+    padding-left: 0;        /* Removes extra space from the left */
+}
+
+ul li {
+    list-style-position: inside; /* Keeps the bullet inside the list item */
+}
+
 footer {
     margin-top: 20px;
     padding: 10px;
     background-color: #B4F8C8;  /* Pastel green */
     border-radius: 10px;
 }
+
