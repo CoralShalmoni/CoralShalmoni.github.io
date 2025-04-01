@@ -15,7 +15,7 @@ I am Coral Shalmoni, and I am in my first year of my masters in Life Sciences in
 
 ## Contact
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30">](https://github.com/CoralShalmoni)
-[📝]([https://github.com/CoralShalmoni/CoralShalmoni.github.io/edit/main/README.md](https://github.com/CoralShalmoni/python-course-assignments))
+[📝](https://github.com/CoralShalmoni/python-course-assignments)
 [📧](mailto:coralshalmoni@gmail.com)
 
 ---
