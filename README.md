@@ -2,16 +2,18 @@
 # Welcome to My Website
 I am Coral Shalmoni, and I am in my first year of my masters in Life Sciences in Weizmann School of Science.
 
-## About Me
-* B.Sc in Biotechnology from Haddassah Academic College, Jerusalem
-* Background in Software Engineering from Ayelet HaShahar Seminary, Jerusalem
+## 👩‍🔬 About Me 
+* 🎓 B.Sc in Biotechnology from Haddassah Academic College, Jerusalem
+* 💻 Background in Software Engineering from Ayelet HaShahar Seminary, Jerusalem
 
-## Languages
-* Hebrew- (Fluent)
-* English (Fluent)
+## 🌍 Languages
+* 🇮🇱 Hebrew- (Fluent)
+* 🇺🇸 English (Fluent)
 
 ## Contact
-[My Email](mailto:coralshalmoni@gmail.com)
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/CoralShalmoni)
+[📂 My Assignments Repository](https://github.com/CoralShalmoni/CoralShalmoni.github.io/edit/main/README.md)
+[📧 My Email](mailto:coralshalmoni@gmail.com)
 
 ---
 
