@@ -23,5 +23,3 @@ I am Coral Shalmoni, and I am in my first year of my masters in Life Sciences in
 <footer>
   &copy; 2025 Coral Shalmoni. All rights reserved.
 </footer>
-
-## windows
