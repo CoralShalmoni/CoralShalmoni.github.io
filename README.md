@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
 # 🌸 Welcome to My Website
 I am Coral Shalmoni, and I am in my first year of my masters in Life Sciences in Weizmann School of Science.
 
