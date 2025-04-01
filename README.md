@@ -1,20 +1,14 @@
----
-layout: default
-title: My Personal Website
----
 
 # Welcome to My Website
-*By Coral Shalmoni*
+I am Coral Shalmoni, and I am in my first year of my masters in Life Sciences in Weizmann School of Science.
 
 ## About Me
-I am Coral Shalmoni, 28 years old. I did my B.Sc. in biotechnology in Hadassah Academic College.
-I am in my first year of my masters in Life Sciences in Weizmann School of Science.
+* B.Sc in Biotechnology from Haddassah Academic College, Jerusalem
+* Background in Software Engineering from Ayelet HaShahar Seminary, Jerusalem
 
-## Skills
-List your key skills here.
-
-## Projects
-Showcase your best projects with descriptions and links.
+## Languages
+* Hebrew- (Fluent)
+* English (Fluent)
 
 ## Contact
 [My Email](mailto:coralshalmoni@gmail.com)
