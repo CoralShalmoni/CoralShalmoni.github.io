@@ -1,0 +1,37 @@
+/* Pastel Light Theme */
+body {
+    background-color: #FAF3E0;  /* Soft beige */
+    color: #7A7A7A;  /* Soft gray text */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #FFD3B6;  /* Pastel peach */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+section {
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #A0E7E5;  /* Pastel cyan */
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #B4F8C8;  /* Pastel green */
+    border-radius: 10px;
+}
