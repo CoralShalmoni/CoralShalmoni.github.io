@@ -9,6 +9,11 @@ I am Coral Shalmoni, and I am in my first year of my masters in Life Sciences in
 * 🎓 B.Sc in Biotechnology from Haddassah Academic College, Jerusalem
 * 💻 Background in Software Engineering from Ayelet HaShahar Seminary, Jerusalem
 
+## 🧪 Rotation Labs
+* 🔬 Prof. Elisabetta Boaretto – Scientific Archeology Unit  
+* 🐭 Prof. Eitan Reuveny – Department of Biomolecular Sciences  
+* 🧬 Prof. Rivka Dikstein – Department of Biomolecular Sciences
+
 ## 🌍 Languages
 * 🇮🇱 Hebrew- (Fluent)
 * 🇺🇸 English (Fluent)
